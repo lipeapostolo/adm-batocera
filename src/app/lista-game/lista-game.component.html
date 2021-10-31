@@ -1,0 +1,58 @@
+<div class="modal">
+  <mat-toolbar color="accent">
+      <mat-toolbar-row class="toolbar">
+       <h2 class="mat-h2">Importar Arquivo</h2>
+       <button mat-icon-button class="btn-fecha" type="button" (click)="fechaModal()"><mat-icon>close_24px</mat-icon></button>
+      </mat-toolbar-row>
+  </mat-toolbar>
+  <div class="busca">
+    <mat-form-field>
+      <mat-label>Filtro</mat-label>
+      <input matInput (keyup)="applyFilter($event)" placeholder="Nome Game" #input>
+    </mat-form-field>
+  </div>
+  <div *ngIf="dataSource.data"  mat-dialog-content>
+    <table mat-table [dataSource]="dataSource" class="">
+          
+      <!-- Name Column -->
+      <ng-container matColumnDef="name">
+        <th mat-header-cell *matHeaderCellDef> Nome </th>
+        <td mat-cell *matCellDef="let element"> {{element.name}} </td>
+      </ng-container>
+    
+      <!-- players Column -->
+      <ng-container matColumnDef="players">
+        <th mat-header-cell *matHeaderCellDef> Quantidade de Jogadores </th>
+        <td mat-cell *matCellDef="let element"> {{element.players}} </td>
+      </ng-container>
+    
+      <!-- genre Column -->
+      <ng-container matColumnDef="genre">
+        <th mat-header-cell *matHeaderCellDef> Genero </th>
+        <td mat-cell *matCellDef="let element"> {{element.genre}} </td>
+      </ng-container>
+
+      <!-- path Column -->
+      <ng-container matColumnDef="path">
+          <th mat-header-cell *matHeaderCellDef> path </th>
+          <td mat-cell *matCellDef="let element"> {{element.path}} </td>
+      </ng-container>
+
+      <!-- nameFile Column -->
+      <ng-container matColumnDef="nameFile">
+          <th mat-header-cell *matHeaderCellDef> Nome Arquivo </th>
+          <td mat-cell *matCellDef="let element"> {{element.nameFile}} </td>
+      </ng-container>
+      
+    
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    
+      <!-- Row shown when there is no matching data. -->
+      <tr class="mat-row" *matNoDataRow>
+        <td class="mat-cell" colspan="4">No data matching the filter "{{input.value}}"</td>
+      </tr>
+    </table>
+  </div>
+  <mat-paginator [pageSizeOptions]="[10, 25, 100]" showFirstLastButtons></mat-paginator>
+</div>

@@ -1,0 +1,18 @@
+<div class="content">
+    <mat-toolbar color="accent">
+        <mat-toolbar-row class="toolbar">
+            <h2 class="mat-h2">Adicona Nova Plataforma</h2>
+            <button mat-icon-button type="button" (click)="fechaModal()"><mat-icon>close_24px</mat-icon></button>
+        </mat-toolbar-row>
+    </mat-toolbar>
+
+    <div class="body" [formGroup]="formulario">
+        <mat-form-field appearance="outline" class="full-width-field" color="accent">
+            <mat-label>Nome</mat-label>
+            <input matInput placeholder="Nome" type="text" autocomplete="off" formControlName="nome">
+        </mat-form-field>
+        <div>
+            <app-upload-arquivo (fechaModalEmitter)="fechaModal()" [desabilitado]="!formValido()" [plataforma]="pegaFormVaule()"></app-upload-arquivo>
+        </div>
+    </div>
+</div>

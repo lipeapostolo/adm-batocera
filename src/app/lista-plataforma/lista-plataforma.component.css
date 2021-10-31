@@ -1,0 +1,10 @@
+.card-plataforma {
+    margin: 10px;
+    max-width: 25em;;
+}
+
+.lista-card {
+    max-width: 85em;;
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#configuração do firebase
+src/environments/environment.ts

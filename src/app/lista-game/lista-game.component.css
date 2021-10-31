@@ -1,0 +1,49 @@
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.toolbar {
+  justify-content: space-between;
+}
+
+::ng-deep .mat-dialog-container {
+  padding: 0%;
+  overflow: inherit;
+  width: 100%;
+}
+
+mat-dialog-container 
+{
+  padding: 0%;
+}
+
+.mat-dialog-content {
+  margin: 0%;
+  padding: 1rem;
+  max-height: inherit;
+}
+
+table {
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.busca {
+  position: sticky;
+  display: flex;
+  width: auto;
+  border-bottom: .1em solid rgba(0, 0, 0, 0.1);
+  padding: 1em;
+}
+
+.modal {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+

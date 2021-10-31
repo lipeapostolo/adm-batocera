@@ -1,0 +1,14 @@
+<div class="container">
+    <div class="lista-card">
+        <mat-card *ngFor="let p of plataformaService.plataformas$ | async" class="card-plataforma">
+            <mat-card-header>
+                <mat-card-title>{{ p.nome }}</mat-card-title>
+                <mat-card-subtitle>Quantidade de Jogos {{p.listaGame.length}}</mat-card-subtitle>
+            </mat-card-header>
+            <mat-card-actions>
+                <button mat-button (click)="importaListaJogos(p)">Atualizar Lista de Jogos</button>
+                <button mat-button (click)="abreListaJogos(p)">Ver Lista de Jogos</button>
+            </mat-card-actions>
+        </mat-card>
+    </div>
+</div>

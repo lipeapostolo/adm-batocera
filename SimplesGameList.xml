@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./San Francisco Rush - Extreme Racing.PBP</path>
+		<name>San Francisco Rush : Extreme Racing</name>
+		<desc>San Francisco Rush Extreme Racing for the PlayStation is based on the 1996 hit arcade game by Atari Games. Players will race through locations based on San Francisco cities, rural areas, and suburban neighborhoods. Environments can also be cycled through day, night, and snow conditions in order to add some variety and challenge to the racing action. Players can alter their view of their car from a third-person perspective to a first-person view looking through the windshield. There are eight available cars to choose from that vary in speed and control as well as four difficulty levels (Beginner, Advanced, Expert, and Extreme). The higher the difficulty, the more control is sacrificed in order to increase the maximum speed. Car colors can also be customized to your liking, and there is a choice between manual and automatic gear transmissions.</desc>
+		<image>./images/San Francisco Rush - Extreme Racing.png</image>
+		<video>./videos/San Francisco Rush - Extreme Racing.mp4</video>
+		<marquee>./marquee/San Francisco Rush - Extreme Racing.png</marquee>
+		<marquee>./marquee/San Francisco Rush - Extreme Racing.png</marquee>
+		<releasedate>19980401T000000</releasedate>
+		<developer>Climax Entertainment</developer>
+		<publisher>Midway Home Entertainment</publisher>
+		<genre>Corrida, Pilotagem</genre>
+		<players />
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Need for Speed 2.PBP</path>
+		<name>Need for Speed II</name>
+		<desc>Take control of eight Super Cars and race your way through six different tracks from Australia to Nepal. Much like the first in the series, the sequel has plenty of high performance cars to choose from, including the McLaren F1 or Ferrari F50 and a few concept cars, each handling differently. Once you've beaten the six tracks, a new track is available to you. It's a fast paced racing game which is intended to play more like an arcade racer than a true simulation. The main difference between this and the previous Need for Speed game is in the tracks, with less open road tracks in this sequel. Also, there are no cops to chase you. However, the tracks available are have a range of detail, and some have changing weather conditions while you race.</desc>
+		<image>./images/Need for Speed 2.png</image>
+		<video>./videos/Need for Speed 2.mp4</video>
+		<marquee>./marquee/Need for Speed 2.png</marquee>
+		<marquee>./marquee/Need for Speed 2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970331T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Corrida, Pilotagem</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Worms.PBP</path>
+		<name>Worms</name>
+		<desc>Worms é um jogo de estratégia baseado em turnos. O jogo possui máximo de 4 times com até 4 "Worms" cada e o objetivo de combater no estilo time x time em um terreno randomicamente gerado. Cada worm tem 100 pontos de vida, e morre ao atingir 0. Ao morrer, o worm explode e acaba causando dano a todos que estiverem perto. A jogabilidade é baseada em turnos. Cada turno um jogador pode controlar um worm de sua equipe. Cada worm pode se mover para a direita, esquerda ou pular. Contudo, há um limite de tempo para que o jogador faça o movimento; caso o worm caia de uma grande altura, perderá vida e o turno terminará imediatamente; se o worm cair para fora da tela de jogo ou na água, morre imediatamente. Cada turno um worm pode fazer um único ataque; o jogador pode mirar para cima e para baixo, escolher a arma e então atirar. Após atacar, o turno acaba.</desc>
+		<image>./images/Worms.png</image>
+		<video>./videos/Worms.mp4</video>
+		<marquee>./marquee/Worms.png</marquee>
+		<marquee>./marquee/Worms.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960807T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Ocean</publisher>
+		<genre>Estratégia</genre>
+		<players>1-16</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ridge Racer.PBP</path>
+		<name>Ridge Racer</name>
+		<desc>Ridge Racer is an arcade racer that puts the emphasis on speed and fun rather than on realistic driving simulation. Choose from 4 fantasy cars (plus 9 more that you must unlock yourself) and go race in a series of equally fantastical tracks against a series of computer controlled oponents as well as the clock itself. Other additions to the game come in the form of a hidden "extra" mode, and a music player that allows you to play any of the 6 included cd tracks as well as your own music cds.</desc>
+		<image>./images/Ridge Racer.png</image>
+		<video>./videos/Ridge Racer.mp4</video>
+		<marquee>./marquee/Ridge Racer.png</marquee>
+		<marquee>./marquee/Ridge Racer.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950909T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Corrida, Pilotagem</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pink Panther - Pinkadelic Pursuit (USA).PBP</path>
+		<name>Pink Panther : Pinkadelic Pursuit</name>
+		<desc>While happily fishing out at sea on a lazy Sunday afternoon, the Pink Panther is suddenly launched into outer-space on a rocket. This side-scrolling platformer is presented in a graphical style designed to match the beloved series of United Artists cartoons. Players guide the Pink Panther though a variety of dangerous environments. He'll have to keep his classic cool as he faces dangers of game levels such as the Stone Age, the Gangster's Hide-Out, and Dracula's Castle. Many zany objects and gadgets can be found along the way to help you reach your objectives. You'll be using lampshades, paint, fire extinguishers, magnets and even bowling balls. Disguise yourself, blend into the background, disarm traps and fight off enemies.</desc>
+		<image>./images/Pink Panther - Pinkadelic Pursuit (USA).png</image>
+		<video>./videos/Pink Panther - Pinkadelic Pursuit (USA).mp4</video>
+		<marquee>./marquee/Pink Panther - Pinkadelic Pursuit (USA).png</marquee>
+		<marquee>./marquee/Pink Panther - Pinkadelic Pursuit (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030104T000000</releasedate>
+		<developer>Etranges Libellules</developer>
+		<publisher>Wanadoo</publisher>
+		<genre>Ação</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Adventures of Lomax.PBP</path>
+		<name>The Adventures of Lomax</name>
+		<desc>As Aventuras de Lomax(conhecido na Europa simplesmente por Lomax) é um spin-off da série de vídeo game Lemmings. O jogador controla Lomax, um lemming que tem por objetivo salvar seus amigos e os animais do doutor malvado. Lomax é um Cavaleiro Lemming, que teve os amigos transformados em monstros pelo "Evil Ed". Sua missão é resgatá-los e por um fim em Evil Ed com seu elmo mágico.</desc>
+		<image>./images/Adventures of Lomax.png</image>
+		<video>./videos/Adventures of Lomax.mp4</video>
+		<marquee>./marquee/Adventures of Lomax.png</marquee>
+		<marquee>./marquee/Adventures of Lomax.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19961031T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Plataforma</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ogre Battle - Limited Edition (USA).PBP</path>
+		<name>Ogre Battle : Limited Edition</name>
+		<desc>The land of Zenobia, a once peaceful land, now filled with shadows and fear. Cloaked figure whisper in the shadows of the death of King Gran. Monsters roam the land. What was once bright, is now dark, and fear is the governing power. Falling prey to the lust for power, the King's trusted sage, Rashidi, slew his King, and joined forces with Empress Endora. Together, these two evil powers spread terror throughout the land. The Zetegenian Empire was born. Nearly 25 years later, the Empire rules with neither justice nor compassion. On the outskirts of Sharom, the last remaining members of the rebellion are gathering for the final battle.</desc>
+		<image>./images/Ogre Battle - Limited Edition (USA).png</image>
+		<video>./videos/Ogre Battle - Limited Edition (USA).mp4</video>
+		<marquee>./marquee/Ogre Battle - Limited Edition (USA).png</marquee>
+		<marquee>./marquee/Ogre Battle - Limited Edition (USA).png</marquee>
+		<releasedate>19970806T000000</releasedate>
+		<developer>Quest</developer>
+		<publisher>Atlus</publisher>
+		<genre>Estratégia</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Street Fighter EX Plus Alpha.PBP</path>
+		<name>Street Fighter Ex Plus Alpha</name>
+		<desc>Street Fighter Ex Plus Alpha é um jogo de luta em 3D no Playstation. O jogo oferece 8 personagens da série Street Fighter. Além disso, você será capaz de enfrentar 12 novos lutadores e isso em mais de 7 modos de jogo diferentes.</desc>
+		<image>./images/Street Fighter EX Plus Alpha.png</image>
+		<video>./videos/Street Fighter EX Plus Alpha.mp4</video>
+		<marquee>./marquee/Street Fighter EX Plus Alpha.png</marquee>
+		<marquee>./marquee/Street Fighter EX Plus Alpha.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19970930T000000</releasedate>
+		<developer>Arika</developer>
+		<publisher>Capcom</publisher>
+		<genre>Luta</genre>
+		<players>1-2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mega Man X6 (USA).chd</path>
+		<name>Mega Man X6</name>
+		<desc>Three weeks after the Eurasia space colony incident, the Earth's surface was severely damaged and humans were forced to flee underground to escape from the planet's severe pollution, and Zero is still missing, presumed to be dead. Reploids were sent in to terraform the land in an attempt to make the planet habitable for humans once more, however, a Reploid and former colleague of Alia named Gate discovered something unusual amidst the ruins of Earth — a piece of Zero's DNA. After examining Zero's DNA, Gate became mad with power and an outbreak of bizarre Mavericks occurred. Weeks passed, Isoc, a Reploid scientist and an associate of Gate, announced to the people that a new phenomenon known as "Nightmare" has quickly spread throughout the world, causing Reploids to hallucinate and eventually destroy themselves. Isoc suspects the cause of the outbreak is none other than Zero who been spreading the phenomenon as he goes, much to X's anger and confusion. Isoc rallies Reploids throughout the world to aid the Nightmare Investigators, led by the powerful High-Max, at key locations to track down the source of this new phenomenon as well as Zero. X, along with the Maverick Hunters, must confront the Nightmare Investigators as they try to solve the mystery behind the Nightmare Phenomenon and clear Zero's name.</desc>
+		<image>./images/Mega Man X6 (USA).png</image>
+		<video>./videos/Mega Man X6 (USA).mp4</video>
+		<marquee>./marquee/Mega Man X6 (USA).png</marquee>
+		<marquee>./marquee/Mega Man X6 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20011204T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Plataforma</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Rushdown.PBP</path>
+		<name>Rushdown</name>
+		<desc>Travel across the globe to compete in Africa, Europe, America, Asia, and Japan. Choose one of four 3D characters and their equipment for each event. Kayaks, snowboards, and bikes are all individually rated in speed, handling, and grip, so you'll be able to select a model that suits your playing style before racing. Proud of the way you thrashed the opposition? Records for each course are saved to memory card along with names. Rushdown also features Dual Shock Analog Controller support, instant replays, 13 music tracks from six French bands, and an option to play a friend on either a horizontally or vertically split screen.</desc>
+		<image>./images/Rushdown.png</image>
+		<video>./videos/Rushdown.mp4</video>
+		<marquee>./marquee/Rushdown.png</marquee>
+		<marquee>./marquee/Rushdown.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19990303T000000</releasedate>
+		<developer>Canal+ Multimedia</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Esporte</genre>
+		<players />
+		<lang>en</lang>
+	</game>
+</gameList>
